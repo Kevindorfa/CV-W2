@@ -1,0 +1,89 @@
+nav{
+  position:relative;
+  top:83px;
+    text-align: center;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+padding: 5px;
+}
+header{
+  background-color: teal;
+  color:white;
+  height:200px;
+  opacity: 1.0;
+  padding: 5px;
+}
+ul a{
+  color:gold;
+}
+li{
+display:inline-block;
+background-color:Navy;
+text-align: center;
+height:22px;
+width:100px;
+border-left: 200px;
+border-right: 200px;
+position: relative;
+right:20px;
+}
+a:hover{
+  background-color:gold;
+  color:darkgreen;
+}
+a:active{
+  background-color:Navy;
+  color:gold;
+}
+#frame{
+  height:400px;
+}
+footer{
+  background-color:  teal;
+  color:white;
+  opacity: 1.0;
+height:200px;
+padding: 5px;
+}
+input[type="text"], input[type="text"], input[type="email"], textarea, button{
+  display:block;
+  margin: 15px 0px;
+  height:30px;
+  width:250px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: inset 2px 2px 2px teal;
+  text-align: center;
+  position:relative;
+  top:15px;
+  margin: auto;
+  margin-top: 10px;
+  margin bottom:10px;
+}
+textarea{
+  height: 100px;
+  padding: 5px 4px;
+}
+.teal{
+  color: teal;
+    text-align:center;
+  }
+  form{
+      margin-top: 25px;
+  }
+button:hover{
+  background-color:gold;
+  color:darkgreen;
+}
+button:active{
+  background-color:navy;
+  color:gold;
+}
+button{
+color:navy;
+}
+.head, .foot{
+  text-align:center;
+}

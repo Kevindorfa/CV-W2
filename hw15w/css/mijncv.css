@@ -1,0 +1,85 @@
+nav{
+  position:relative;
+  top:83px;
+  text-align: center;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+padding: 5px;
+}
+header{
+  background-color: teal;
+  color:white;
+  height:200px;
+  opacity: 1.0;
+  padding: 5px;
+}
+ul a{
+  color:gold;
+}
+li{
+display:inline-block;
+background-color:Navy;
+text-align: center;
+height:22px;
+width:100px;
+border-left: 2px;
+border-right: 2px;
+position: relative;
+right:20px;
+}
+a:hover{
+  background-color:gold;
+  color:darkgreen;
+}
+a:active{
+  background-color:Navy;
+  color:gold;
+}
+footer{
+  background-color: teal;
+  color:white;
+  opacity: 1.0;
+height:200px;
+padding: 5px;
+}
+#frame{
+  height:400px;
+}
+table{
+  border-collapse: collapse;
+  border-style:dotted; border-color:navy;
+  width:500px;
+  margin:auto;
+  margin-top: 25px;
+}
+td,th{
+  padding: 10px 5px;
+}
+#blauw{
+  background-color:navy;
+  color:gold;
+  width:200px;
+}
+#goud{
+  background-color:gold;
+  color:navy;
+  width:200px;
+}
+.samenvatting{
+  position:relative;
+left:330px;
+color:teal;
+font-size: 15px;
+}
+.teal{
+  color:teal;
+  text-align:center;
+}
+tbody{
+  color:navy;
+}
+.head, .foot{
+    text-align:center;
+}
